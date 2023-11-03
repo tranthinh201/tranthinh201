@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in Viet Nam 🇻🇳
+- 🌱 I’m currently learning React Native
+- ⚡ Fun fact: No code no bugs
+
 <!--
 **tranthinh201/tranthinh201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
